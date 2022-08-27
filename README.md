@@ -16,6 +16,12 @@ Output:
 Posible improvement: 
 	-Due to the amount of data and the type of regression, the error is considerable. But for future improvements, it would be necessary to modify the hyperparameters such as lr to obtain better results.
 	
+## How to run
+
+Download the folder and run:
+
+	python Reg_log.py
+	
 ### Photo evidence of the code working:
   ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/Image1.jpg)
   ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/image2.jpg)
