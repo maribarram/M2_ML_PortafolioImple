@@ -23,7 +23,7 @@ Download the folder and run:
 	python Reg_log.py
 	
 ### Photo evidence of the code working:
-  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/Image1.jpg)
-  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/image2.jpg)
-  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/image3.jpg)
+  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/ImplemetacionSinFramework/Image1.jpg)
+  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/ImplemetacionSinFramework/image2.jpg)
+  ![Class 1](https://github.com/maribarram/M2_ML_PortafolioImple/blob/main/ImplemetacionSinFramework/image3.jpg)
   
