@@ -39,7 +39,7 @@ print("Testing the model")
 y_model = model.predict(X_test)
 
 from sklearn.metrics import accuracy_score
-print(accuracy_score(y_test,y_model))
+print("Accuracy_score: ",accuracy_score(y_test,y_model))
 
 a = [[12,8.3],[13,5.32],[15,4.5]]
 print("For new predictions: ", a)
