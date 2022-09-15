@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 _error_ = [] 
+Params_final = []
 
 #hypothesis function
 def hypothesis(param, sample):
@@ -113,4 +114,5 @@ for i in range(3):
     new_params = re_log(alfa,samples,y[:,i])
     print("Parameters for class ",i+1)
     print(new_params)
+    Params_final.append(new_params)
     plt.show()
